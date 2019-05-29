@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <h2>
+    Gift Giver
+  </h2>
+  <Button
+    active={false}
+    className="btn-add"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+    variant="primary"
+  >
+    Add Gift
+  </Button>
+</div>
+`;
